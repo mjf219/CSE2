@@ -1,9 +1,3 @@
-// Using the calculator program in lab04
-//Prompt user for two integers and an operator.
-//Displaying illegal operator when operator is invalid
-//Calculator should ask user for input they reply "N" to the question 
-
-
 import java.util.Scanner;
 
 public class CalculatorSpecial {
@@ -51,4 +45,3 @@ public class CalculatorSpecial {
         
     }
 }
-
