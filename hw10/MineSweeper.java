@@ -26,7 +26,7 @@ public class MineSweeper //public class
       numberMines = keyboard.nextInt();//stores this value
     }
     String [][] gameBoard = new String [sizeBoard][sizeBoard];
-    creater(sizeBoard, numberMines, gameBoard);//call method creator 
+    creator(sizeBoard, numberMines, gameBoard);//call method creator 
     printer(sizeBoard, gameBoard);//calls method printer
   }
   
